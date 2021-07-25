@@ -1,0 +1,17 @@
+{
+  "name": "poker_hand_comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.14",
+    "@babel/preset-env": "7.13.12",
+    "babel-jest": "26.6.3",
+    "jest": "26.6.3"
+  },
+  "author": "Afreeca",
+  "license": "ISC"
+}
